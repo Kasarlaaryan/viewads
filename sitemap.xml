@@ -3,72 +3,460 @@
   <!-- Core Pages -->
   <url>
     <loc>https://viewads.in/</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://viewads.in/about</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://viewads.in/services</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
     <loc>https://viewads.in/blogs</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://viewads.in/locations</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://viewads.in/industries-we-serve</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://viewads.in/contact</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.90</priority>
   </url>
 
-  <!-- Service Pages -->
-  <url><loc>https://viewads.in/services/web-design</loc><priority>0.80</priority></url>
-  <url><loc>https://viewads.in/services/seo</loc><priority>0.80</priority></url>
-  <url><loc>https://viewads.in/services/social-media-marketing</loc><priority>0.80</priority></url>
-  <url><loc>https://viewads.in/services/digital-marketing</loc><priority>0.80</priority></url>
-  <url><loc>https://viewads.in/services/hosting</loc><priority>0.75</priority></url>
-  <url><loc>https://viewads.in/services/graphic-design</loc><priority>0.75</priority></url>
+  <!-- Category Service Pages -->
+  <url>
+    <loc>https://viewads.in/services/website-design-development</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/seo</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/social-media-marketing</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/digital-marketing</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Web Design Sub-Services -->
+  <url>
+    <loc>https://viewads.in/services/website-design-development/business-website</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/website-design-development/wordpress-development</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/website-design-development/landing-page</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/website-design-development/website-redesign</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/website-design-development/mobile-friendly</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- SEO Sub-Services -->
+  <url>
+    <loc>https://viewads.in/services/seo/keyword-research</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/seo/on-page-seo</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/seo/off-page-seo</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/seo/local-seo</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/seo/seo-audit</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- SMM Sub-Services -->
+  <url>
+    <loc>https://viewads.in/services/social-media-marketing/facebook-marketing</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/social-media-marketing/instagram-marketing</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/social-media-marketing/linkedin-marketing</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/social-media-marketing/content-creation</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/social-media-marketing/paid-ads</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Digital Marketing Sub-Services -->
+  <url>
+    <loc>https://viewads.in/services/digital-marketing/google-ads</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/digital-marketing/lead-generation-funnels</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/digital-marketing/performance-marketing</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/digital-marketing/email-marketing</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/digital-marketing/cro</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Generic Service Detail Pages -->
+  <url>
+    <loc>https://viewads.in/services/web-design</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/hosting</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services/graphic-design</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
 
   <!-- Blog Posts -->
-  <url><loc>https://viewads.in/blogs/how-ai-is-transforming-digital-marketing-2025</loc><priority>0.70</priority></url>
-  <url><loc>https://viewads.in/blogs/10-essential-seo-tips-small-businesses</loc><priority>0.70</priority></url>
-  <url><loc>https://viewads.in/blogs/importance-of-mobile-first-website-design</loc><priority>0.70</priority></url>
+  <url>
+    <loc>https://viewads.in/blogs/how-ai-is-transforming-digital-marketing-2025</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/blogs/10-essential-seo-tips-small-businesses</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/blogs/importance-of-mobile-first-website-design</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.70</priority>
+  </url>
 
-  <!-- Regional Location Pages - India -->
-  <url><loc>https://viewads.in/location/hyderabad</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/bangalore</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/chennai</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/mumbai</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/delhi</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/pune</loc><priority>0.60</priority></url>
-  <url><loc>https://viewads.in/location/kolkata</loc><priority>0.60</priority></url>
-  <url><loc>https://viewads.in/location/ahmedabad</loc><priority>0.60</priority></url>
-  <url><loc>https://viewads.in/location/jaipur</loc><priority>0.60</priority></url>
-  <url><loc>https://viewads.in/location/kochi</loc><priority>0.60</priority></url>
-  <url><loc>https://viewads.in/location/vizag</loc><priority>0.60</priority></url>
+  <!-- Location Pages: India -->
+  <url>
+    <loc>https://viewads.in/location/hyderabad</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/bangalore</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/chennai</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/mumbai</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/delhi</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/pune</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/kolkata</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/ahmedabad</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/jaipur</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/kochi</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/coimbatore</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/trivandrum</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/vijayawada</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/guntur</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/warangal</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/karimnagar</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/nizamabad</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/khammam</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/vizag</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/tirupati</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/nellore</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/kurnool</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
 
-  <!-- International Location Pages - USA & UK -->
-  <url><loc>https://viewads.in/location/usa</loc><priority>0.70</priority></url>
-  <url><loc>https://viewads.in/location/new-york</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/texas</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/california</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/uk</loc><priority>0.70</priority></url>
-  <url><loc>https://viewads.in/location/london</loc><priority>0.65</priority></url>
-  <url><loc>https://viewads.in/location/manchester</loc><priority>0.65</priority></url>
+  <!-- Location Pages: USA -->
+  <url>
+    <loc>https://viewads.in/location/usa</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/new-york</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/texas</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/california</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/florida</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/chicago</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/los-angeles</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Location Pages: UK -->
+  <url>
+    <loc>https://viewads.in/location/uk</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/london</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/manchester</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/birmingham</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/leeds</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/bristol</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/location/nottingham</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
 </urlset>
