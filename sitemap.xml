@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Pages -->
+  <url>
+    <loc>https://viewads.in/</loc>
+    <lastmod>2025-05-15</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/about</loc>
+    <lastmod>2025-05-15</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/services</loc>
+    <lastmod>2025-05-15</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/blogs</loc>
+    <lastmod>2025-05-15</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/locations</loc>
+    <lastmod>2025-05-15</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/industries-we-serve</loc>
+    <lastmod>2025-05-15</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://viewads.in/contact</loc>
+    <lastmod>2025-05-15</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Service Pages -->
+  <url><loc>https://viewads.in/services/web-design</loc><priority>0.80</priority></url>
+  <url><loc>https://viewads.in/services/seo</loc><priority>0.80</priority></url>
+  <url><loc>https://viewads.in/services/social-media-marketing</loc><priority>0.80</priority></url>
+  <url><loc>https://viewads.in/services/digital-marketing</loc><priority>0.80</priority></url>
+  <url><loc>https://viewads.in/services/hosting</loc><priority>0.75</priority></url>
+  <url><loc>https://viewads.in/services/graphic-design</loc><priority>0.75</priority></url>
+
+  <!-- Blog Posts -->
+  <url><loc>https://viewads.in/blogs/how-ai-is-transforming-digital-marketing-2025</loc><priority>0.70</priority></url>
+  <url><loc>https://viewads.in/blogs/10-essential-seo-tips-small-businesses</loc><priority>0.70</priority></url>
+  <url><loc>https://viewads.in/blogs/importance-of-mobile-first-website-design</loc><priority>0.70</priority></url>
+
+  <!-- Regional Location Pages - India -->
+  <url><loc>https://viewads.in/location/hyderabad</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/bangalore</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/chennai</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/mumbai</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/delhi</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/pune</loc><priority>0.60</priority></url>
+  <url><loc>https://viewads.in/location/kolkata</loc><priority>0.60</priority></url>
+  <url><loc>https://viewads.in/location/ahmedabad</loc><priority>0.60</priority></url>
+  <url><loc>https://viewads.in/location/jaipur</loc><priority>0.60</priority></url>
+  <url><loc>https://viewads.in/location/kochi</loc><priority>0.60</priority></url>
+  <url><loc>https://viewads.in/location/vizag</loc><priority>0.60</priority></url>
+
+  <!-- International Location Pages - USA & UK -->
+  <url><loc>https://viewads.in/location/usa</loc><priority>0.70</priority></url>
+  <url><loc>https://viewads.in/location/new-york</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/texas</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/california</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/uk</loc><priority>0.70</priority></url>
+  <url><loc>https://viewads.in/location/london</loc><priority>0.65</priority></url>
+  <url><loc>https://viewads.in/location/manchester</loc><priority>0.65</priority></url>
+</urlset>

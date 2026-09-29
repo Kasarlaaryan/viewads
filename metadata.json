@@ -1,0 +1,7 @@
+{
+  "name": "Viewads - Digital Solutions Agency",
+  "description": "A high-performance React application for Viewads, a results-driven digital agency specializing in web development, SEO, and creative digital marketing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
