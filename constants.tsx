@@ -27,7 +27,7 @@ import { ServiceInfo } from './types';
 export const AGENCY_DETAILS = {
   name: 'Viewads',
   phone: '+91 9010190919',
-  email: 'Viewads.in@gmail.com',
+  email: 'support@viewads.in',
   locations: ['India', 'USA', 'UK'],
   address: 'Serving India, USA & UK'
 };
