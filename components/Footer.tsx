@@ -18,12 +18,12 @@ const Footer: React.FC = () => {
             <p className="leading-relaxed">
               Professional Digital Solutions for Growing Businesses. We build impactful online presences through creativity and strategy.
             </p>
-            <div className="flex space-x-4">
+            {/* <div className="flex space-x-4">
               <a href="#" className="w-10 h-10 bg-white/5 rounded-lg flex items-center justify-center hover:bg-red-600 hover:text-white transition-all"><Facebook className="w-5 h-5" /></a>
               <a href="#" className="w-10 h-10 bg-white/5 rounded-lg flex items-center justify-center hover:bg-red-600 hover:text-white transition-all"><Instagram className="w-5 h-5" /></a>
               <a href="#" className="w-10 h-10 bg-white/5 rounded-lg flex items-center justify-center hover:bg-red-600 hover:text-white transition-all"><Twitter className="w-5 h-5" /></a>
               <a href="#" className="w-10 h-10 bg-white/5 rounded-lg flex items-center justify-center hover:bg-red-600 hover:text-white transition-all"><Linkedin className="w-5 h-5" /></a>
-            </div>
+            </div> */}
           </div>
 
           <div>
